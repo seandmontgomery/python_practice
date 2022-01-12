@@ -80,7 +80,6 @@ print(ceil(3.7))
 print(sqrt(36))
 
 
-
 """USER_INPUT"""
 
 name = input("Enter your name: ")
